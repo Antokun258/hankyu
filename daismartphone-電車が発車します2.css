@@ -2,7 +2,7 @@
     position: absolute;
     top: 1921px;
     left: 23.5px;
-    z-index:;
+    z-index:1;
     animation: ChangeImage 2s infinite;
     opacity: 0;
   }
