@@ -1,7 +1,7 @@
 .smartphone-button00{
     position:absolute;
-    top: 145px;
-    left:250px;
+    top: 110px;
+    left:200px;
+    font-size:40px;
     border-color: #fff;
-    padding: 2px;
 }
