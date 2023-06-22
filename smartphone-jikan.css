@@ -1,10 +1,10 @@
 .smartphone-jikan{
     position: absolute;
     text-align: center;
-    top: 140px;
-    left: 650px;
+    top: 100px;
+    left: 670px;
     z-index: 1;
-    font-size: 80px;
+    font-size: 70px;
     font-family:Arial;
     color: #fff;
       }
